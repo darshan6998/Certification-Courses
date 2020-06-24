@@ -10,4 +10,4 @@
 ![pic5](https://github.com/darshan6998/Certification-Courses/blob/master/CertificatesImages/Coursera%20Starting%20with%20Python.png)
 
 
-  *   *Some courses are still not completed yet, will update when its completed  *.
+  *   *Some courses are still not completed yet, will update when its completed.
