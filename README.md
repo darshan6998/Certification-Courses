@@ -1,6 +1,6 @@
 # Certification-Courses
 
-`Below are all the Course Certificates wwhich I have completed*.`
+`Below are all the Course Certificates which I have completed*.`
 
 
 ![pic1](https://github.com/darshan6998/Certification-Courses/blob/master/CertificatesImages/Robotics%20Software%20Engineer%20Udacity.png)
